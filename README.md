@@ -1,2 +1,2 @@
 # TSproject
-Ts的使用和联系
+Ts的使用和练习
